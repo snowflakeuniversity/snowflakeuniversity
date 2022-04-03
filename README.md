@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snowflakeuniversity
+- 👋 Hi, I’m Mel Melnyk, but my friends call me Melly-Mel on GitHub I go by @snowflakeuniversity
 - 👀 I’m interested in cool projects that use Snowflake as a back end. 
 - 🌱 I’m currently learning Python (too obvious?)
 - 💞️ Stuff stored in here is related to learn.snowflake.com!!
